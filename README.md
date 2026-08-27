@@ -51,4 +51,4 @@ Project page: https://funimation-prime.softyx.xyz
 ---
 
 ## ⚠️ Disclaimer
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                    
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                     
